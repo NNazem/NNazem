@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheNoobRoxas
-- 👀 I’m interested in computer science ...
-- 🌱 I’m currently learning Java ...
-- 📫 How to reach me @TheNoobRoxas on Telegram ...
+- 👀 I’m interested in computer science 
+- 🌱 I’m currently learning Java 
+- 📫 How to reach me: @TheNoobRoxas on Telegram 
 
 <!---
 TheNoobRoxas/TheNoobRoxas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
