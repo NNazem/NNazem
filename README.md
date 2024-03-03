@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheNoobRoxas
+- 👋 Hi, I’m @NNazem
 - 👀 I’m interested in computer science 
 - 🌱 I’m currently learning Java 
 - 📫 How to reach me: @TheNoobRoxas on Telegram 
