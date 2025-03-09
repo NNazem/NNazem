@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NNazem
 - 👀 I’m interested in computer science 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java, Golang and React.js 
 - 📫 How to reach me: @TheNoobRoxas on Telegram 
 
 <!---
